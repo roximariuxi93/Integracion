@@ -20,8 +20,7 @@ public class Tablasmultiplicar {
         // TODO code application logic here
         Scanner lector=new Scanner(System.in);
         System.out.println("Ingenieria de Software2");
-        System.out.println("hola travis");
-        System.out.println("hola githaub");
+        System.out.println("aprendiendo");
         System.out.println("Opciones \n 1)Ingreso de tabla a visualizar \n 2)Visualizar las tablas del 2 al 12");
         int opcion =lector.nextInt();
         int total;
